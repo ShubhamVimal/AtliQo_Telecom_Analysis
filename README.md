@@ -4,6 +4,15 @@ This Power BI project provides a comprehensive visual analysis of AtliQo’s per
 
 ---
 
+## 🌐 Live Dashboard (Interactive)
+
+You can explore the live, interactive version of this Power BI dashboard hosted on the Power BI Service:
+
+🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiNzQ0Y2Q2NmItY2ZiOS00NTI3LWE2ZGEtZTE1OTI0OTMxNTQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+*(Best viewed on desktop in full-screen mode)*
+
+---
+
 ## 🏢 About AtliQo
 
 AtliQo is a leading telecom provider in India that launched its 5G plans in May 2022. Following the rollout, the company noticed a dip in key performance indicators like active users and revenue. This dashboard was built to help the business understand trends and take corrective action.
