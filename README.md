@@ -8,7 +8,7 @@ This Power BI project provides a comprehensive visual analysis of AtliQo’s per
 
 You can explore the live, interactive version of this Power BI dashboard hosted on the Power BI Service:
 
-🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiNzQ0Y2Q2NmItY2ZiOS00NTI3LWE2ZGEtZTE1OTI0OTMxNTQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjEwOTkzZTgtYWZkZi00OGMxLWJlNjgtYWMwMDhlNzIzNTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 *(Best viewed on desktop in full-screen mode)*
 
 ---
